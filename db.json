@@ -1,17 +1,14 @@
 {
     "generate": [
         {
-            "id":0,
             "entry": "aaaaa",
             "translation": "bbbbb"
         },
         {
-            "id":1,
             "entry": "a for loop in python",
             "translation": "for x in range(6):\n&#9print(\"hello\")"
         },
         {
-            "id":2,
             "entry": "a while loop in python",
             "translation": "while true:\n&#9print(\"hello\")"
         }
