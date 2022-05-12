@@ -13,18 +13,18 @@
             "translation": "while true:\n    print(\"hello\")"
         }
     ],
-"reviews":[
-    {
-        "id":0,
-        "entry": "a while loop in python",
-        "translation": "while true:\n&#9print(\"hello\")",
-        "positive":true
-    },
-    {
-        "id":1,
-        "entry": "a while loop in python",
-        "translation": "while false:\n&#9print(\"hello\")",
-        "positive":false
-    }
-]
+    "reviews":[
+        {
+            "id":0,
+            "entry": "a while loop in python",
+            "translation": "while true:\n&#9print(\"hello\")",
+            "positive":true
+        },
+        {
+            "id":1,
+            "entry": "a while loop in python",
+            "translation": "while false:\n&#9print(\"hello\")",
+            "positive":false
+        }
+    ]
 }
