@@ -5,7 +5,7 @@
             "translation": "bbbbb"
         },
         {
-            "entry": "a%20for%20loop%20in%20python",
+            "entry": "a for loop in python",
             "translation": "for x in range(6):\n&#9print(\"hello\")"
         },
         {
