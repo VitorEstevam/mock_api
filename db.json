@@ -1,6 +1,10 @@
 {
     "generate": [
         {
+            "entry": "aaaaa",
+            "translation": "bbbbb"
+        },
+        {
             "entry": "a for loop in python",
             "translation": "for x in range(6):\n&#9print(\"hello\")"
         },
