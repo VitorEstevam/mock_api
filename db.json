@@ -1,11 +1,12 @@
 {
-    "posts": [
+    "generate": [
         {
-            "id": 1,
-            "title": "hello"
+            "name": "a for loop in python",
+            "translation": "for x in range(6):\n&#9print(\"hello\")"
+        },
+        {
+            "name": "a while loop in python",
+            "translation": "while true:\n&#9print(\"hello\")"
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
