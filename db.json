@@ -9,7 +9,7 @@
             "translation": "for x in range(6):\n&#9print(\"hello\")"
         },
         {
-            "entry": "a%20while%20loop%20in%20python",
+            "entry": "a while loop in python",
             "translation": "while true:\n&#9print(\"hello\")"
         }
     ]
