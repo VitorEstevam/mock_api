@@ -1,11 +1,11 @@
 {
     "generate": [
         {
-            "name": "a for loop in python",
+            "entry": "a for loop in python",
             "translation": "for x in range(6):\n&#9print(\"hello\")"
         },
         {
-            "name": "a while loop in python",
+            "entry": "a while loop in python",
             "translation": "while true:\n&#9print(\"hello\")"
         }
     ]
