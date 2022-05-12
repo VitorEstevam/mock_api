@@ -5,11 +5,11 @@
             "translation": "bbbbb"
         },
         {
-            "entry": "a for loop in python",
+            "entry": "a%20for%20loop%20in%20python",
             "translation": "for x in range(6):\n&#9print(\"hello\")"
         },
         {
-            "entry": "a while loop in python",
+            "entry": "a%20while%20loop%20in%20python",
             "translation": "while true:\n&#9print(\"hello\")"
         }
     ]
